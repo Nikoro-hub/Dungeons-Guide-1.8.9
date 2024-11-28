@@ -1,23 +1,14 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
-
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+# Features
+- Solvers
+- F7 Terminal Solvers (Shows the correct solution/order.)
+- Creeper Solver (Shows what sea lanterns to hit.)
+- Simon Says Solver (Shows correct buttons to hit.)
+- Blaze Room Solver (Shows what order to kill the blazes in.)
+- Advanced Water Board Solver (Shows you what buttons to hit.)
+- Tic-Tac-Toe Solver (Shows the correct tic-tac-toe solution.)
+- Riddle Solver (Tells you the correct person, requires you to click all three characters first.)
+- Ice Fill Solver (Shows the correct path through the ice puzzle.)
+- Silverfish Solver (Shows what way you should hit the silverfish.)
+- Bomb Defuse Solver (Shows the path through the pressure plates. Requires you to visit the left side and press a key to save the solution first, Required to be this way to follow Hypixel rules.)
+- Secret Finder (Creates a line from the player towards the nearest secret. Video demonstrating this feature)
+- Fairy Soul Finder (Shows the location of dungeon fairy souls.)
